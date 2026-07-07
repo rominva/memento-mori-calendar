@@ -73,10 +73,10 @@ This project follows the traditional **Memento Mori Calendar** layout:
 - Each row represents one completed year of life.
 - Each row contains **52 weeks**.
 - The current week is calculated from your **most recent birthday**, matching the structure of the printed calendar.
-- There is a picture of this calender available to print in
+- There is a picture of this calender available to print:
 ![link](https://github.com/rominva/memento-mori-calendar/blob/main/assets/Memento_Mori_Calendar.png)
 or you can visit this site for more patterns 
-![site](https://lovelyplanner.com/printable-memento-mori-calendars/)
+https://lovelyplanner.com/printable-memento-mori-calendars/
 
 ---
 
